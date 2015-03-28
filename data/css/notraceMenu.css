@@ -1,0 +1,19 @@
+.mainMenu {
+	margin: 0.6em;
+	width: 100%;
+}
+
+.menuItem{
+	margin-top: 0.2em;
+	background: rgb(250, 242, 229);
+	height: 1.5em;
+}
+
+.menuItemOver {
+	background: rgb(246, 205, 173); 
+}
+
+.itemMenuIcon {
+	float: left;
+	margin-right: 10px;
+}
