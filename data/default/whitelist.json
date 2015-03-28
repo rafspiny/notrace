@@ -1,0 +1,12 @@
+{
+	"cnn.com": {
+		"onlyAllowSubdomains": true,
+		"subdomains": {
+			"edition.cnn.com": {}
+		},
+		"madeExceptions": false,
+		"exceptions" : {
+			"banner.cnn.com" : {}
+		}
+	}
+}
